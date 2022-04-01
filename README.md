@@ -1,2 +1,2 @@
-# gcg-demo
+# GoCodeGirl-webdev-demo
 Created with CodeSandbox
